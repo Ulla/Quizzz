@@ -19,6 +19,7 @@ $score++;
 
 <html>
 <head>
+<link href='style.css' rel='stylesheet' type='text/css'>
 <title>resultat</title>
 </head>
 <body>

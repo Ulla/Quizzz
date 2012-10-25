@@ -70,13 +70,13 @@ if(isset($_POST['check']))
 ?><!doctype html>
 <html>
 <head>
-<!-- <meta charset="UTF-8"> -->
+<link href='style.css' rel='stylesheet' type='text/css'>
 <title>Skapa användare</title>
 </head>
 
 <body>
 
-<h1>Skapa</h1>
+<h1>Skapa användare</h1>
 
 <form method="post" acion="login.php">
 
@@ -91,7 +91,7 @@ Lösenord<br>
 
 </form>
 
-<h1>kolla</h1>
+<h1>Logga in</h1>
 <form method="post" acion="login.php">
 
 <input type="hidden" name="check" value="true">

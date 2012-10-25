@@ -46,7 +46,7 @@ if (isset ($_FILES['filnamn']))
 <!doctype html>
 <html>
 <head>
-<link href='style2.css' rel='stylesheet' type='text/css'>
+<link href='style.css' rel='stylesheet' type='text/css'>
 <title>Skapa en Fråga</title>
 </head>
 <body>

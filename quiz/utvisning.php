@@ -1,10 +1,12 @@
 <!doctype html>
 <html>
 <head>
+<link href='style.css' rel='stylesheet' type='text/css'>
 <title>Quiz</title>
 </head>
 <body>
-<h1><ul>Hur bra är du?</ul></h1>
+<h1><ul>Ta reda på hur bra du är!</ul></h1>
+<ul><h2>Frågor:</h2></ul>
 
 
 
@@ -12,12 +14,6 @@
 
 <?php createGallery();?>
 
-
-
-
-</body>
-
-</html>
 
 <?php
 
@@ -155,3 +151,9 @@ function generateImage($tempfile, $thumbHeight, $watermark, $namePrefix)
 
 
 ?>
+
+
+
+</body>
+
+</html>

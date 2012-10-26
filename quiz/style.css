@@ -1,0 +1,37 @@
+body {
+	font-family: sans-serif;
+}
+
+h1 {
+	font-size: 40px;
+	font-weight: bold;
+	color: #4a723d;
+}
+
+h2 {
+	font-weight: bold;
+	font-size: 20px;
+	margin: 24px 0 14px;
+	color: #92b74b;
+}
+
+h3 {
+	font-weight: bold;
+	font-size: 24px;
+	margin: 26px 0 14px;
+	color: #83613c;
+}
+
+#main {
+	width: 540px;
+	margin: 50px auto;
+}
+
+#wrapper {
+    width: 700px;
+    margin: 0 auto;
+    border: 10px solid #83613c;
+    margin-top: 40px;
+    padding: 20px;
+    padding-bottom: 20px;
+}
